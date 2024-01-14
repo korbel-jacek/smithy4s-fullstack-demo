@@ -1,0 +1,5 @@
+{
+    "mavenDependencies": [
+        "com.disneystreaming.smithy4s:alloy-core:latest.stable"
+    ]
+}
